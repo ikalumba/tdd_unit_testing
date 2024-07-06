@@ -1,1 +1,3 @@
-export function multiply() {}
+export function multiply(a, b) {
+   return a*b
+}
