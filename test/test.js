@@ -1,3 +1,7 @@
+// ---TEAM MEMBERS---
+// Winifred Nakawunde
+// Isaac Kalumba
+
 import { assert } from "chai";
 import { multiply } from "../multiply.js";
 
