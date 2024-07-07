@@ -14,4 +14,7 @@ describe("multiply tests", function () {
   it("Fourth Test Cycle", function () {
     assert.equal(multiply(4, 4), 16);
   });
+  it("Fifth Test Cycle", function () {
+    assert.equal(multiply(23, 45), 23 * 45);
+  });
 });
