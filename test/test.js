@@ -11,4 +11,7 @@ describe("multiply tests", function () {
   it("Test First TDD Cycle 3", function () {
     assert.equal(multiply(3, 3), 9);
   });
+  it("Fourth Test Cycle", function () {
+    assert.equal(multiply(4, 4), 16);
+  });
 });
